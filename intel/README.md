@@ -1,7 +1,7 @@
 # Intel Emulator![Polska](https://img.shields.io/badge/Language-Polish-red?style=flat&logo=flag-icon&logoColor=white)![English](https://img.shields.io/badge/Language-English-blue?style=flat&logo=flag-icon&logoColor=white)
 
 ## Jak uruchomić aplikację ![Polska](https://img.shields.io/badge/Language-Polish-red?style=flat&logo=flag-icon&logoColor=white)
-
+---
 1. Zainstaluj zależności:
    ```sh
    npm install
