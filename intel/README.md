@@ -1,8 +1,6 @@
-# Intel Emulator
-![Polska](https://img.shields.io/badge/Language-Polish-red?style=flat&logo=flag-icon&logoColor=white)![English](https://img.shields.io/badge/Language-English-blue?style=flat&logo=flag-icon&logoColor=white)
+# Intel Emulator![Polska](https://img.shields.io/badge/Language-Polish-red?style=flat&logo=flag-icon&logoColor=white)![English](https://img.shields.io/badge/Language-English-blue?style=flat&logo=flag-icon&logoColor=white)
 
-## Jak uruchomić aplikację
-![Polska](https://img.shields.io/badge/Language-Polish-red?style=flat&logo=flag-icon&logoColor=white)
+## Jak uruchomić aplikację ![Polska](https://img.shields.io/badge/Language-Polish-red?style=flat&logo=flag-icon&logoColor=white)
 
 1. Zainstaluj zależności:
    ```sh
@@ -95,8 +93,7 @@ Poniżej znajduje się lista wszystkich komend dostępnych w folderze `src/comma
     - **Przykład:** `Xor AH AL`
 
 
-## How to run the application
-![English](https://img.shields.io/badge/Language-English-blue?style=flat&logo=flag-icon&logoColor=white)
+## How to run the application ![English](https://img.shields.io/badge/Language-English-blue?style=flat&logo=flag-icon&logoColor=white)
 
 1. Install dependencies:
    ```sh
